@@ -1,14 +1,28 @@
 {
   "pages": [
+    
     "pages/index/index",
     "pages/about/login/login",
     "pages/about/wallet/wallet",
     "pages/about/point/point",
     "pages/about/logistics/logistics",
     "pages/about/personinfo/personinfo",
+<<<<<<< HEAD
     "pages/about/collect/collect",
     "pages/basics/search/search",
     "pages/about/questions/questions"
+=======
+    "pages/basics/search/search",
+    "pages/category/category",
+    "pages/goods/collect/collect",
+    "pages/goods/goods_detail/goods",
+    "pages/goods/goodslist/goodslist",
+    "pages/about/order/details/details",
+    "pages/basics/msg/msg",
+    "pages/basics/msg/detailmsg/detailmsg",
+    "pages/about/address/address",
+    "pages/about/question/question"
+>>>>>>> f5cdbc8553661cd0fdd101ded8884432b6711273
   ],
   "window": {
     "backgroundTextStyle": "light",

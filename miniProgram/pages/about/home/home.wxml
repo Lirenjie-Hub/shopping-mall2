@@ -69,8 +69,13 @@
     </view>
 
     <view class="cu-item arrow">
+<<<<<<< HEAD
       <navigator class="content" url="/pages/about/questions" hover-class="none">
         <text class="text-grey">常见问题</text>
+=======
+      <navigator class="content" url="/pages/about/question/question" hover-class="none">
+        <text class="text-grey">常见问题解答</text>
+>>>>>>> f5cdbc8553661cd0fdd101ded8884432b6711273
       </navigator>
     </view>
   </view>
