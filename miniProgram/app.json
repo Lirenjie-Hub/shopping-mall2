@@ -8,8 +8,7 @@
     "pages/about/personinfo/personinfo",
     "pages/about/collect/collect",
     "pages/basics/search/search",
-    "pages/about/questions",
-    "pages/about/question"
+    "pages/about/questions/questions"
   ],
   "window": {
     "backgroundTextStyle": "light",
